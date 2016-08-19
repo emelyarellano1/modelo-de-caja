@@ -1,0 +1,19 @@
+div{
+	height:40px; 
+	border-color:purple solid;
+	border-top: 20px purple solid;
+	border-right: 9px purple solid;
+	border-bottom: 20px purple solid; 
+	border-left: 9px purple solid;
+	padding:10px 10px 50px 50px;
+	margin:200px;
+	background-color: #FA8258;
+}
+
+p{
+	padding: 10px 40px 10px 40px;
+	background-color: white;
+	border:1px blue dashed;
+	margin:1px;
+}
+	
